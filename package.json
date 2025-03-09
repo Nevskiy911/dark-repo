@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-06/",
+    "build": "vite build --base=/dark-repo/",
     "preview": "vite preview"
   },
   "devDependencies": {
